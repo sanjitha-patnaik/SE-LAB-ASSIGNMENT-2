@@ -1,5 +1,5 @@
 # GIT AND GITHUB
-# All the bold lines are edited in the branch1
+# All the lines starting with a hashtag are edited in the branch1
 
 Git and GitHub are two closely related but distinct tools that revolutionized version control and collaborative software development.
 
